@@ -1,4 +1,3 @@
-# Mat_plot_lib_HWK
 Please open the Pymaceuticals fodler to find my written code, data sources, and observations from studying the data.
 
 
@@ -18,9 +17,6 @@ Please open the Pymaceuticals fodler to find my written code, data sources, and 
 
 The Power of Plots
 
-What good is data without a good plot to tell the story?
-
-In this homework assignment, you’ll apply what you've learned about Matplotlib and to a real-world situation and dataset.
 ## Background
 
 You've just  joined Pymaceuticals Inc., a new pharmaceutical company that specializes in anti-cancer pharmaceuticals. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
