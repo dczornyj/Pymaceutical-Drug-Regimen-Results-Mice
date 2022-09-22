@@ -1,5 +1,7 @@
 Please open the Pymaceuticals fodler to find my written code, data sources, and observations from studying the data.
 
+### summary stats by drug regimen
+![py-sumstats](https://user-images.githubusercontent.com/101612220/191656855-e7971370-f844-48c2-b2cf-1f55f5c38385.png)
 
 
 
@@ -15,7 +17,6 @@ Please open the Pymaceuticals fodler to find my written code, data sources, and 
 
 
 
-The Power of Plots
 
 ## Background
 
