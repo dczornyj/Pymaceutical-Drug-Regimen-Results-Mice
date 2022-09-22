@@ -1,20 +1,41 @@
-Please open the Pymaceuticals fodler to find my written code, data sources, and observations from studying the data.
+## *Please open the Pymaceuticals folder from the root folder to find my written code, data sources, and observations from studying the data.
 
-### summary stats by drug regimen
+# Screenshots
+
+
+### Summary Statistics by Drug Regimen
 ![py-sumstats](https://user-images.githubusercontent.com/101612220/191656855-e7971370-f844-48c2-b2cf-1f55f5c38385.png)
 
+### Number of Timepoints by Drug Regimen Bar Plot
+![py-timepointbar](https://user-images.githubusercontent.com/101612220/191656890-ad3d06cf-7554-436d-ac7f-e8e31155e751.png)
 
 
 
+### Male/Female Distribution of Mice Pie Chart
+![py-malefemdistrib](https://user-images.githubusercontent.com/101612220/191656901-a3ac8d87-cf34-40b7-97c0-5003d122e4e1.png)
 
 
 
+### Tumor Volume (mm3) of Selected Nouse by Timepoint Line Plot
+![py-lineplot](https://user-images.githubusercontent.com/101612220/191656979-63fa97bd-6822-4c00-9771-50cd9fa17c9b.png)
+
+
+### Mouse Weight (g) by Tumor Volume (mm3) Scatter Plot
+![py-scatter](https://user-images.githubusercontent.com/101612220/191657007-d1be89c4-1e3b-4bcf-b191-7af5d7442892.png)
 
 
 
+### Final Tumor Volume (mm3) by Selected Drug Regimen Box Plot
+![py-boxplot](https://user-images.githubusercontent.com/101612220/191657025-1aaa2d6e-4d89-4d6e-9e16-d88425af4da2.png)
+
+
+### Average Tumor Volume (mm3) by Mouse Weight (g) for Capomulin Treatment Scatter Plot 
+![py-tumweight](https://user-images.githubusercontent.com/101612220/191657073-ba0918f8-5303-413d-8df4-094da44efe43.png)
 
 
 
+### Average Tumor Volume (mm3) by Mouse Weight (g) for Capomulin Treatment Linear Regression 
+![py-linreg](https://user-images.githubusercontent.com/101612220/191657092-5a00e56a-f5c2-419c-b9d8-f8930fbc8d62.png)
 
 
 
